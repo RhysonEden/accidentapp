@@ -1,0 +1,12 @@
+img {
+  width: 95%;
+  align-items: stretch;
+}
+
+.header {
+  display: flex;
+  background-color: #1361ab;
+  background-size: cover;
+  flex: 1;
+  align-items: center;
+}

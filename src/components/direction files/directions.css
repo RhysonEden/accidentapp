@@ -1,0 +1,18 @@
+.spacing {
+  margin-top: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  align-items: center;
+  margin-bottom: 10px;
+  /* margin-left: 25px; */
+}
+
+.spaceunder {
+  margin-bottom: 9px;
+}
+
+.color {
+  color: #1361ab;
+}
